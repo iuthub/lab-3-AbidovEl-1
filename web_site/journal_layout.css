@@ -1,0 +1,34 @@
+body {
+	margin: 0 10% auto;
+	background-image: url("images/background.gif"); 
+}
+
+.box {
+	border: white solid 10px;
+}
+
+.heading {
+	background-color: #A8F0F0;
+	text-align: right;
+}
+
+.heading1 {
+	font-size: 14px;
+}
+
+.paragraph {
+	border: #C2E9E9 solid 4px;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	clear: right;
+	overflow:hidden;
+}
+
+#date {
+	border-bottom: blue dashed 2px;
+}
+
+.image {
+	float: right;
+}
